@@ -1,0 +1,5 @@
+{
+  "name": "ANON",
+  "description": "Ứng dụng kiểm tra độ uy tín của Số điện thoại và Số tài khoản ngân hàng bằng AI và Google Search để phát hiện lừa đảo.",
+  "requestFramePermissions": []
+}
